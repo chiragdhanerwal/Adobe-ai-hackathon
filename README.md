@@ -1,0 +1,1 @@
+This fake hackathon website was created to help my friend. He wanted to show the hackathon timings at home so that he could say he was attending it, while actually coming with us to an overnight party.
